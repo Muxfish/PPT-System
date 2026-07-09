@@ -315,8 +315,6 @@ DEEPSEEK_MODEL=deepseek-chat
 
 ## 设计来源
 
-本项目基于歸藏（op7418）的开源项目 [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 的设计理念重新实现，是一个独立的全栈 Web 应用版本。
-
 - 视觉系统参考：电子杂志×电子墨水风格、瑞士国际主义风格
 - 布局系统扩展：新增 `image-full` `image-left` `image-right` 三种图片布局
 - 背景系统原创：60套渐变、7种几何图案、智能关键词匹配摄影背景
